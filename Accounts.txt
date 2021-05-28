@@ -1,4 +1,4 @@
-Account Number			 Name 
+Account Number			Name 
 1001				Tejash
 1002				Yash
 1003				Raj
